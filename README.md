@@ -6,12 +6,11 @@ This project implements an arcade-style “Catch the Falling Object” game usin
 
 1. **Python Simulation File:** A Python script that simulates the game logic.  
    [**Link to Python File**](./fsmgame.py)
-
-2. **K-Map Design and Logic Minimization Markdown:** A markdown document detailing the use of Karnaugh maps (K-maps) to simplify the next-state logic, illustrating the full logical reasoning and steps for minimal SOP (Sum of Products) implementation.  
+2. **K-Map Design and Logic Minimization Markdown:** A markdown document detailing the use of Karnaugh maps (K-maps) to simplify the next-state logic, illustrating the full logical reasoning and steps for minimal SOP (Sum of Products) implementation. 
    [**Link to K-Map Design Markdown**](./fsmdesign.md)
 3. **Digital representation of how the flip flop behaviour** A .dig file detailing the implementation of the fsm using simple dff.
-     
-  [**Link to the Digital file**](./flipfloprepresentation.dig)
+   [**Link to the Digital file**](./flipfloprepresentation.dig)
+   
 These files guide you through both the conceptual design process and a tangible simulation of the game’s behavior.
 
 ## Game Concept
