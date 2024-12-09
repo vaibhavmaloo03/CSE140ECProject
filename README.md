@@ -71,6 +71,7 @@ The [K-Map Design Markdown](./fsmdesign.md) shows the step-by-step logic minimiz
 - Use of don’t cares and priority encoding to achieve the simplest possible logic.
 
 This section connects theoretical digital logic concepts to practical FSM design optimization.
+![image](https://github.com/user-attachments/assets/c104fa44-4175-45ac-9a2c-02b03e72e3a5)
 
 ## Challenges and Solutions
 
