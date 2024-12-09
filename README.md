@@ -1,7 +1,7 @@
 # README (Project Report)
 
 ## Overview
-Link to the webpage of the project: ([https://vaibhavmaloo03.github.io/CSE140ECProject/])
+Link to the webpage of the project: ([https://vaibhavmaloo03.github.io/CSE140ECProject/]).\
 This project implements an arcade-style “Catch the Falling Object” game using a Finite State Machine (FSM) design. Originally, the FSM logic and transitions were developed for a Verilog-based hardware implementation. To make the concepts more accessible and testable, two supplementary files are provided:
 
 1. **Python Simulation File:** A Python script that simulates the game logic.  
