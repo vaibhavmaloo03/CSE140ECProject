@@ -63,7 +63,7 @@ In a hardware setup, these outputs would connect to LEDs, a VGA display, or othe
 
 ## Karnaugh Maps (K-Maps) and Logic Minimization
 
-The [K-Map Design Markdown](./kmap_design.md) shows the step-by-step logic minimization. It presents:
+The [K-Map Design Markdown](./fsmdesign.md) shows the step-by-step logic minimization. It presents:
 
 - The state diagram and truth table.
 - K-map derivations for next-state bits.
